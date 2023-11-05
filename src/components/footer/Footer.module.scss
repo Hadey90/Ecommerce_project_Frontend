@@ -1,0 +1,24 @@
+.footer {
+  background-color: var(--dark-blue);
+  color: #fff;
+  font-size: 1.6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 8rem;
+  p {
+    color: #fff;
+  }
+}
+
+// /* Define a class for the footer */
+// .footer {
+//   position: fixed;
+//   left: 0;
+//   bottom: 0;
+//   width: 100%;
+//   background-color: #333; /* Set the background color for the footer */
+//   color: #fff; /* Set the text color for the footer */
+//   padding: 20px; /* Add padding for content inside the footer */
+//   text-align: center;
+// }
